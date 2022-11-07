@@ -1,3 +1,4 @@
+console.log("DONE");
 console.log("Consider that git and github are different!")
 console.log("Intiial commit")
 console.log("with Github Workflow");
