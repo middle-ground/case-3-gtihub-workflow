@@ -1,3 +1,4 @@
+console.log("Consider that git and github are different!")
 console.log("Intiial commit")
 console.log("with Github Workflow");
 console.log("We use pull request and merge by button");
@@ -10,3 +11,4 @@ console.log("To prevent this from happening, We can change the default branch to
 
 console.log("BEFORE CREATE ANOTHER BRANCH AFTER MERGE IN PULL REQUEST")
 console.log("MAKE SURE TO GIT PULL")
+
